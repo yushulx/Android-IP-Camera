@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IPCamera</string>
+    <string name="action_settings">Settings</string>
+	<string name="start">Start</string>
+	<string name="stop">Stop</string>
+	<string name="ok">OK</string>
+	<string name="cancel">Cancel</string>
+	<string name="ip">IP</string>
+	<string name="port">Port</string>
+	<string name="setting_title">Server Setting</string>
+</resources>
