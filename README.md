@@ -8,4 +8,4 @@ The samples show how to create a customized camera application on Android, as we
 ## Blog
 [Making Android Smart Phone a Remote IP Camera][1]
 
-[1]:http://www.codepool.biz/tech-frontier/android/making-android-smart-phone-a-remote-ip-camera.html
+[1]:https://www.dynamsoft.com/codepool/making-android-smart-phone-a-remote-ip-camera.html
